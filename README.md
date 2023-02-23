@@ -11,4 +11,4 @@ A python script was created for performing the image quantification in order to 
 
 The actin comet tail images along with the annotations will be publicly accessible via Zenodo.
 
-The source code for performing the actin comet tail quantification are freely accessbile via Github: https://github.dev/radoshevichlab/YZhang
+The source code for performing the actin comet tail quantification are freely accessbile via Github: https://github.com/radoshevichlab/YZhang.git
